@@ -1,0 +1,13 @@
+{
+    "name": "My Django App",
+    "version": "1.0.0",
+    "description": "A simple Django application",
+    "author": "John Doe",
+    "homepage": "https://example.com",
+    "dependencies": {
+        "django": "^3.2.5"
+    },
+    "scripts": {
+        "start": "python manage.py runserver"
+    }
+}
