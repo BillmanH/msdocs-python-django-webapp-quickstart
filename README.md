@@ -44,12 +44,12 @@ Confirm you have the correct variables with `conda env config vars list`
 
 
 ## To configure Login with AAD:
-* Create your needed app registration and follow the instructions in the _usefull links_ below. That process isn't automated here.
+* Create your needed app registration and follow the instructions in the _useful links_ below. That process isn't automated here.
 
 ## When you deploy to Azure
 
 
 
-## Usefull Links: 
+## Useful Links: 
 * [AAD login in Django](https://learn.microsoft.com/en-us/training/modules/msid-django-web-app-sign-in/) 
 * [Code examples of AAD](https://github.com/Azure-Samples/ms-identity-python-django-tutorial/blob/main/1-Authentication/sign-in/Sample/settings.py)
